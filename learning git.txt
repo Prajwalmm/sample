@@ -1,0 +1,4 @@
+learning git commands
+git add
+git commit
+git status
